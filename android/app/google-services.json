@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340295270564",
+    "project_id": "eatoo-f4b9e",
+    "storage_bucket": "eatoo-f4b9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340295270564:android:280c495c07e7bf1e11a631",
+        "android_client_info": {
+          "package_name": "com.eatoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340295270564-nc98454oqtqmscs3upaqab9bimvgbh2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eatoo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "340295270564-mtrf84rknnkrc11g4q9lic0sl42fluj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp1cJ464Eu4ps7r9I16zcHubG6kBFfPpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340295270564-mtrf84rknnkrc11g4q9lic0sl42fluj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
